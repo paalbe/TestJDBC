@@ -22,6 +22,7 @@ public class TestJDBC {
         } catch (Exception e) {
             System.out.println(e.getMessage());
         }
+        System.out.println("Da er vi ferdige");
     }
 
 }
